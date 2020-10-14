@@ -1,0 +1,72 @@
+[submodule "scope/symbolic-voting"]
+	path = scope/symbolic-voting
+	url = https://github.com/CurioTeam/symbolic-voting
+[submodule "scope/oracle-source"]
+	path = scope/oracle-source
+	url = https://github.com/CurioTeam/oracle-source
+[submodule "scope/flipper-mom"]
+	path = scope/flipper-mom
+	url = https://github.com/CurioTeam/flipper-mom
+[submodule "scope/ds-chief"]
+	path = scope/ds-chief
+	url = https://github.com/CurioTeam/ds-chief
+[submodule "scope/ds-pause"]
+	path = scope/ds-pause
+	url = https://github.com/CurioTeam/ds-pause
+[submodule "scope/ds-token"]
+	path = scope/ds-token
+	url = https://github.com/CurioTeam/ds-token
+[submodule "scope/dsr-manager"]
+	path = scope/dsr-manager
+	url = https://github.com/CurioTeam/dsr-manager
+[submodule "scope/dss-cdp-manager"]
+	path = scope/dss-cdp-manager
+	url = https://github.com/CurioTeam/dss-cdp-manager
+[submodule "scope/dss-deploy-pause-proxy-actions"]
+	path = scope/dss-deploy-pause-proxy-actions
+	url = https://github.com/CurioTeam/dss-deploy-pause-proxy-actions
+[submodule "scope/dss-proxy-actions"]
+	path = scope/dss-proxy-actions
+	url = https://github.com/CurioTeam/dss-proxy-actions
+[submodule "scope/esm"]
+	path = scope/esm
+	url = https://github.com/CurioTeam/esm
+[submodule "scope/ilk-registry"]
+	path = scope/ilk-registry
+	url = https://github.com/CurioTeam/ilk-registry
+[submodule "scope/median"]
+	path = scope/median
+	url = https://github.com/CurioTeam/median
+[submodule "scope/mkr-authority"]
+	path = scope/mkr-authority
+	url = https://github.com/CurioTeam/mkr-authority
+[submodule "scope/multicall"]
+	path = scope/multicall
+	url = https://github.com/CurioTeam/multicall
+[submodule "scope/osm-mom"]
+	path = scope/osm-mom
+	url = https://github.com/CurioTeam/osm-mom
+[submodule "scope/osm"]
+	path = scope/osm
+	url = https://github.com/CurioTeam/osm
+[submodule "scope/proxy-registry"]
+	path = scope/proxy-registry
+	url = https://github.com/CurioTeam/proxy-registry
+[submodule "scope/testchain-medians"]
+	path = scope/testchain-medians
+	url = https://github.com/CurioTeam/testchain-medians
+[submodule "scope/token-faucet"]
+	path = scope/token-faucet
+	url = https://github.com/CurioTeam/token-faucet
+[submodule "scope/vote-proxy"]
+	path = scope/vote-proxy
+	url = https://github.com/CurioTeam/vote-proxy
+[submodule "scope/dss-deploy-scripts"]
+	path = scope/dss-deploy-scripts
+	url = https://github.com/CurioTeam/dss-deploy-scripts
+[submodule "scope/dss-deploy"]
+	path = scope/dss-deploy
+	url = https://github.com/CurioTeam/dss-deploy
+[submodule "scope/dss"]
+	path = scope/dss
+	url = https://github.com/CurioTeam/dss
